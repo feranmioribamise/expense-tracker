@@ -2,7 +2,7 @@
 
 **Deployed Application:** [Coming Soon]
 
-**GitHub Repository:** https://github.com/feranmioribamis/expense-tracker
+**GitHub Repository:** https://github.com/feranmioribamise/expense-tracker
 
 ---
 
@@ -115,10 +115,4 @@ Planned features include mobile applications for iOS and Android, recurring expe
 
 ## Support
 
-For questions or issues, contact: [your-email@example.com]
-
----
-
-## License
-
-MIT License - See LICENSE file for details
+For questions or issues, contact: [oluwaferanmioribamise@gmail.com]

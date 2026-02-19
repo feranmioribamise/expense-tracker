@@ -1,8 +1,6 @@
 # SpendSmart - AI Expense Tracker
 
-**Deployed Application:** [Coming Soon]
-
-**GitHub Repository:** https://github.com/feranmioribamise/expense-tracker
+**Deployed Application:** https://expense-tracker-zeta-virid-41.vercel.app/
 
 ---
 
